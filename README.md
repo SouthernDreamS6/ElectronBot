@@ -2,8 +2,8 @@
 
 ##本人成品基于小卡打板复刻
 
-[原项目-GitHub地址]https://github.com/peng-zhihui/ElectronBot
-[小卡语音版-立创开源平台地址]https://oshwhub.com/taosi/ElectronBotyu-yin-ban
+[原项目-GitHub地址](https://github.com/peng-zhihui/ElectronBot)
+[小卡语音版-立创开源平台地址](https://oshwhub.com/taosi/ElectronBotyu-yin-ban)
 
 ##ElectronBot所需物料汇总
 
@@ -13,6 +13,7 @@
 
 | 值                                                           | 封装                       | 数量 | 分类     |                         备注                          |
 | ------------------------------------------------------------ | -------------------------- | ---- | -------- | :---------------------------------------------------: |
+| [螺丝m1*10](https://detail.tmall.com/item.htm?_u=h38u98q90a5c&id=15817242523) | | 12 | 螺丝 | 舵机拆后壳后固定 |
 
 
 #教程文档等待更新，同步本人实时复刻进度。
