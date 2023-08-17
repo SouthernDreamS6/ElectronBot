@@ -40,8 +40,6 @@
 | **3.3uf[淘宝](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.63072e8dmzSkSt&id=584191872678&_u=82089jq9r83254) | CAP_0402 | 2 | 贴片电容 | |
 | 10uf[淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.0.0.61bf6a4bxhDjri&id=523808259470) | CAP_0402 | 13 | 贴片电容 | |
 | 100uf[淘宝](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.63072e8dmzSkSt&id=537892953732&_u=82089jq9r896db) | 3225_C  | 2 | 贴片电容 | |
-
-
 | TYPE-C-31-M-12 [淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.0.0.4cd06a4bMhuqjL&id=573090887123) | USB-C_SMD-TYPE-C-31-M-12_1 | 1 | | Type-C母座/16P|
 | STM32F405RGT6 [淘宝](https://m.tb.cn/h.5WPHxwT?tk=r0gzdwzZmET) | LQFP-64_L10.0-W10.0-P0.50-LS12.0-BL | 1 | 芯片 | ARM单片机芯片 |
 | STM32F030F4P6 [淘宝](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dK94IAl&id=522554611977) | TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL | 1 | 芯片 | ARM单片机芯片 |
@@ -58,8 +56,6 @@
 | 螺丝m1*10 [淘宝](https://detail.tmall.com/item.htm?_u=h38u98q90a5c&id=15817242523) | | 12 | 螺丝 | 舵机拆后壳后固定 |
 | SH1.0-3P-STAND [淘宝](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.b4452e8dieu7qp&id=565360096163) | CONN-SMD_3P-P1.00_SH1.0-3P-STAND | 1 | 线 | 端子连接线 |
 | SH1.0A-4P 卧贴 [淘宝](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.b4452e8dieu7qp&id=565360096163) | CONN-SMD_SH1.0A-4P-WT | 6 | 线 | 端子连接线 |
-
-
 | [淘宝]() | | 1 | | |
 
 
