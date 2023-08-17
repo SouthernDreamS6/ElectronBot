@@ -13,11 +13,13 @@
 
 | 值                                                           | 封装                       | 数量 | 分类     |                         备注                          |
 | ------------------------------------------------------------ | -------------------------- | ---- | -------- | :---------------------------------------------------: |
+| **1M [淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.0.0.312a6a4b3v21pi&id=523792505903) | RES_0402 | 2 | 贴片电阻 | |
 | 0r [淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.0.0.260c6a4bygC9kT&id=523767583740) | RES_0402 | 1 | 贴片电阻 | |
 | 4.7r [淘宝](https://detail.tmall.com/item.htm?_u=h38u98q935b4&id=688551973492) | RES_0402 | 1 | 贴片电阻 | |
 | 10r [淘宝](https://detail.tmall.com/item.htm?_u=h38u98q935b4&id=688551973492) | RES_0402 | 1 | 贴片电阻 | |
 | 22r [淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.0.0.4d676a4bJd4KBn&id=523793129101) | RES_0402 | 2 | 贴片电阻 | |
 | 120r [淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.0.0.3c5d6a4buUTM6g&id=525596814299) | RES_0402 | 1 | 贴片电阻 | |
+| **200r [淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.0.0.72f96a4bPb6iRX&id=525601373139) | RES_0402 | 1 | 贴片电阻 | |
 | 1k [淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.0.0.7b8b6a4b4ZyZjn&id=523768007165) | RES_0402 | 3 | 贴片电阻 | |
 | 1.5k [淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.0.0.666d6a4baJs9d1&id=523791926093) | RES_0402 | 1 | 贴片电阻 | |
 | 5.1k [淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.0.0.1d166a4bh5OPqZ&id=523791794085) | RES_0402 | 1 | 贴片电阻 | |
@@ -33,7 +35,9 @@
 | 10nf[淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.0.0.323e6a4bOHlAZL&id=537684397002) | CAP_0402 | 5 | 贴片电容 | |
 | 100nf[淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.0.0.67c86a4bgVLHIc&id=523808399191) | CAP_0402 | 24 | 贴片电容 | |
 | **0.1uf[淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.0.0.67c86a4bgVLHIc&id=523808399191) | CAP_0402 | 1 | 贴片电容 | |
+| 0.22uf[淘宝](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.63072e8dmzSkSt&id=537684849257&_u=82089jq9r8818e) | CAP_0402 | 1 | 贴片电容 | |
 | 1uf[淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.0.0.3b526a4bRlu4BI&id=523832610965) | CAP_0402 | 9 | 贴片电容 | |
+| **3.3uf[淘宝](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.63072e8dmzSkSt&id=584191872678&_u=82089jq9r83254) | CAP_0402 | 2 | 贴片电容 | |
 | 10uf[淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.0.0.61bf6a4bxhDjri&id=523808259470) | CAP_0402 | 13 | 贴片电容 | |
 | 100uf[淘宝](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.63072e8dmzSkSt&id=537892953732&_u=82089jq9r896db) | 3225_C  | 2 | 贴片电容 | |
 
